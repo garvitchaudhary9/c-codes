@@ -1,3 +1,4 @@
 # c-codes
-this a platform which contains my c++ codes
+This repository contains my initial c++ codes.
+
 
